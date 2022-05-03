@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "166315869515",
+    "firebase_url": "https://pinwiapp-c0789-default-rtdb.firebaseio.com",
+    "project_id": "pinwiapp-c0789",
+    "storage_bucket": "pinwiapp-c0789.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166315869515:android:a650c97458cfdc61a614ce",
+        "android_client_info": {
+          "package_name": "com.adrian.turner"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166315869515-abuack0iu8hbvcvdm4ani17asrnp7nlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ9hTn69Bui113v1hIiusSXVRRu2QO9hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166315869515-abuack0iu8hbvcvdm4ani17asrnp7nlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166315869515:android:ff8087b35ab510f7a614ce",
+        "android_client_info": {
+          "package_name": "com.example.pinwiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166315869515-abuack0iu8hbvcvdm4ani17asrnp7nlq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ9hTn69Bui113v1hIiusSXVRRu2QO9hc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166315869515-abuack0iu8hbvcvdm4ani17asrnp7nlq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
